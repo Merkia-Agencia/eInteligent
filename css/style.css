@@ -869,13 +869,14 @@ header.fixed .navbar {
 /* features section image */
 .features_section .feature_detail .feature_img {
     position: absolute;
-    left: 50%;
+    left: 55%;
     transform: translateX(-50%);
     top: 75px;
 }
 
 .features_section .feature_detail .feature_img img {
     max-width: 100%;
+    width: 80%;
 }
 
 /* features section box */

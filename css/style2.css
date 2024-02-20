@@ -1,0 +1,31 @@
+.statistic_section .app_statstic {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.statistic_section .app_statstic li {
+    width: 100%;
+    /*display: flex;*/
+    align-items: center;
+}
+
+.statistic_section .app_statstic li .icon {
+    text-align: center;
+}
+
+.statistic_section .app_statstic li p {
+    margin-bottom: 0;
+    line-height: 1;
+    color: var(--dark-purple);
+    text-align: center;
+    font-size: 20px;
+}
+
+.statistic_section .app_statstic li p:first-child {
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    padding: 10px 0;
+}
