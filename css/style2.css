@@ -29,3 +29,13 @@
     text-align: center;
     padding: 10px 0;
 }
+
+
+.features_section .features_inner .feature_box .image img {
+    border-radius: 12px 12px 0 0;
+    max-width: 100%;
+}
+
+.features_section .features_inner .feature_box .text {
+    padding: 30px;
+}
