@@ -940,7 +940,6 @@ header.fixed .navbar {
     transform: translate(-50%, -50%);
     width: 500px;
     height: 500px;
-    background-color: var(--bg-white);
     border-radius: 100%;
     z-index: -1;
 }
@@ -1061,7 +1060,6 @@ header.fixed .navbar {
     width: 570px;
     height: 570px;
     border-radius: 100%;
-    background-color: var(--bg-white);
     z-index: -1;
 }
 
