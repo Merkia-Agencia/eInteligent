@@ -62,7 +62,8 @@ $('#testimonial_slider').owlCarousel({
     loop:true,
     margin:10,
     nav:false,
-    autoplay: true,
+    autoplay: true, // Enables autoplay of slides
+    autoplayTimeout: 9000,
     smartSpeed: 2500,
     dots: true, 
     responsive:{
