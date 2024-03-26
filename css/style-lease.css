@@ -481,7 +481,7 @@ header.fixed .navbar {
 }
 
 .navbar-brand img {
-    width: 150px;
+    width: 200px;
 }
 
 /* navigation bar dropdown */
@@ -664,7 +664,7 @@ header.fixed .navbar {
 
 /* hero banner heading h1 */
 .banner_section .banner_text h1 {
-    font-size: 50px;
+    font-size: 40px;
     color: var(--dark-purple);
     letter-spacing: -1.5px;
     font-weight: 700;
@@ -2131,7 +2131,7 @@ footer .top_footer .logo {
 }
 
 footer .top_footer .logo img {
-    width: 150px;
+    width: 200px;
 }
 
 footer .top_footer .abt_side li {
