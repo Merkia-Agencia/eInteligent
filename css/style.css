@@ -792,7 +792,6 @@ header.fixed .navbar {
     position: absolute;
     left: 5px;
     top: 5px;
-    background-color: #fff;
     width: calc(100% - 10px);
     height: 92%;
 }
